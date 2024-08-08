@@ -1,4 +1,4 @@
-# A website template for academics
+# A website template for ECN AAU
 
 ## Users
 
